@@ -1,0 +1,4 @@
+dramastudio
+*.db
+data/
+.env
